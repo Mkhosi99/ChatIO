@@ -98,10 +98,6 @@ We welcome contributions to ChatIO! If you're interested in helping improve the 
 - [Slack](https://slack.com/)
 - [Discord](https://discord.com/)
 
-## Authors 👥
-
-- **Michael Chukwunwe** - [Github](https://github.com/stuckwithprogression)
-- **Daniel German** - [Github](https://github.com/germanchuks)
 
 ## Screenshots 📸
 
